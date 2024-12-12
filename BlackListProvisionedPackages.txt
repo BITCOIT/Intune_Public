@@ -2,9 +2,7 @@ Clipchamp.Clipchamp
 Microsoft.549981C3F5F10
 Microsoft.GamingApp
 Microsoft.Getstarted
-Microsoft.MicrosoftOfficeHub
 Microsoft.MicrosoftSolitaireCollection
-Microsoft.OutlookForWindows
 Microsoft.People
 Microsoft.PowerAutomateDesktop
 Microsoft.RawImageExtension
