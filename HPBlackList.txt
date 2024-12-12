@@ -16,6 +16,7 @@ AD2F1837.myHP
 RealtekSemiconductorCorp.HPAudioControl
 HP Sure Recover
 HP Sure Run Module
+HP Documentation
 RealtekSemiconductorCorp.HPAudioControl_2.39.280.0_x64__dt26b99r8h8gj
 HP Wolf Security - Console
 HP Wolf Security Application Support for Chrome 122.0.6261.139
