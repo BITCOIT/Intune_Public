@@ -5,14 +5,12 @@ Microsoft.Getstarted
 Microsoft.MicrosoftSolitaireCollection
 Microsoft.People
 Microsoft.PowerAutomateDesktop
-Microsoft.RawImageExtension
 Microsoft.ScreenSketch
 Microsoft.StorePurchaseApp
 Microsoft.Windows.DevHome
 microsoft.windowscommunicationsapps
 Microsoft.WindowsFeedbackHub
 Microsoft.WindowsMaps
-Microsoft.WindowsSoundRecorder
 Microsoft.WindowsStore
 Microsoft.Xbox.TCUI
 Microsoft.XboxGameOverlay
