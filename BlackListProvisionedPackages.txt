@@ -22,3 +22,4 @@ Microsoft.ZuneMusic
 Microsoft.ZuneVideo
 MicrosoftWindows.Client.WebExperience
 MicrosoftWindows.CrossDevice
+Microsoft.OutlookForWindows_1.2025.219.400_x64__8wekyb3d8bbwe
